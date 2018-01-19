@@ -1,0 +1,20 @@
+{
+    "android": {
+        "release": {
+            "keystore": "",
+            "storePassword": "",
+            "alias": "",
+            "password": "",
+            "keystoreType": ""
+        }
+    },
+    "ios": {
+        "debug": {
+            "developmentTeam": "Y42YYTR69X"
+        },
+        "release": {
+            "developmentTeam": "Y42YYTR69X",
+            "codeSignIdentity": "iPhone Developer"
+        }
+    }
+}
